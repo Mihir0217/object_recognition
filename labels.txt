@@ -1,0 +1,10 @@
+0 person
+1 mobile
+2 bottle
+3 toy
+4 glass
+5 fan
+6 pen
+7 frame
+8 chair
+9 keys
